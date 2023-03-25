@@ -9,11 +9,11 @@ Function Palindrome returns true if the given string is a palindrome. Otherwise,
 
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
 
-Example- palindrome("eye") returns true.
+Example 1- palindrome("eye") returns true.
 
-Example- palindrome("race car") returns true
+Example 2- palindrome("race car") returns true
 
-Example- alindrome("not a palindrome") returns false.
+Example 3- alindrome("not a palindrome") returns false.
 
 ## CeasarsCipher.js
 
