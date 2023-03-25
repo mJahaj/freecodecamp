@@ -13,7 +13,7 @@ Example 1- palindrome("eye") returns true.
 
 Example 2- palindrome("race car") returns true
 
-Example 3- alindrome("not a palindrome") returns false.
+Example 3- palindrome("not a palindrome") returns false.
 
 ## CeasarsCipher.js
 
